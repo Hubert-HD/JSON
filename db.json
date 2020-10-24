@@ -1,19 +1,35 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Hubert"
     },
     {
       "id": 2,
-      "title": "hello"
+      "name": "Yshiro"
     },
     {
       "id": 3,
-      "title": "hello"
+      "name": "Miku"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  "courses": [
+    {
+      "id": 1,
+      "name": "Matematica Basica"
+    },
+    {
+      "id": 2,
+      "name": "Programacion Web"
+    },
+    {
+      "id": 3,
+      "name": "Calculo"
+    },
+    {
+      "id": 4,
+      "name": "Programacion Java"
+    }
+  ]
 }
