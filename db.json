@@ -1,18 +1,21 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Hubert"
-    },
-    {
-      "id": 2,
-      "name": "Yshiro"
-    },
-    {
-      "id": 3,
-      "name": "Miku"
-    }
-  ],
+  "users": {
+    "count": 3,
+    "results":[
+      {
+        "id": 1,
+        "name": "Hubert"
+      },
+      {
+        "id": 2,
+        "name": "Yshiro"
+      },
+      {
+        "id": 3,
+        "name": "Miku"
+      }
+    ]
+  },
 
   "courses": [
     {
