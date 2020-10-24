@@ -1,5 +1,5 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
       "name": "Hubert"
@@ -17,19 +17,39 @@
   "courses": [
     {
       "id": 1,
-      "name": "Matematica Basica"
+      "name": "Matematica Basica",
+      "credit": 4
     },
     {
       "id": 2,
-      "name": "Programacion Web"
+      "name": "Programacion Web",
+      "credit": 2
     },
     {
       "id": 3,
-      "name": "Calculo"
+      "name": "Calculo",
+      "credit": 3
     },
     {
       "id": 4,
-      "name": "Programacion Java"
+      "name": "Programacion Java",
+      "credit": 2
+    }
+  ],
+
+  "notes": [
+    {
+      "userId": 1,
+      "id": 1,
+      "courseId": 2,
+      "rank": 14
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "courseId": 3,
+      "rank": 11
     }
   ]
+
 }
